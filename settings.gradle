@@ -1,4 +1,5 @@
 rootProject.name = 'ecq'
 
+include 'cqrs'
 include 'crud'
 include 'domain'
